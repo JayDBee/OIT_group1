@@ -1,0 +1,5 @@
+FastAPI
+Streamlit
+uvicorn
+asyncio
+websockets
